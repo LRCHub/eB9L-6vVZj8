@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "OCEANSIDE LINER",
+  "base_artist": "paris match",
+  "createdAt": "2026-03-18T12:58:25.179835Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "OCEANSIDE LINER",
+      "artist": "Paris Match",
+      "has_synced": false,
+      "path": "select/01_OCEANSIDE_LINER_Paris_Match.txt"
+    }
+  ]
+}
